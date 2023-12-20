@@ -1,0 +1,9 @@
+import com.facebook.FacebookSdk;
+import com.facebook.appevents.AppEventsLogger;
+
+
+
+      
+keytool -exportcert -alias androiddebugkey -keystore "C:\Users\Raja Zaryyab\.android\debug.keystore" | openssl sha1 -binary | openssl base64
+
+6LPOn47vsZMiGJ2/HfWt/AuhnVc=
